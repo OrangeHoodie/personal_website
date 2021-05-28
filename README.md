@@ -1,3 +1,3 @@
 # personal_website
 
-https://orangehoodie.github.io/personal_website/
+https://shubhamgoyal2003.github.io/personal_website/
