@@ -51,7 +51,6 @@ p {
 
 
 
-
 .bottom_cloud{
   position: absolute;
   width: 12%;
@@ -61,6 +60,7 @@ p {
   padding:0 0 1% 0;
 }
 .contact-me{
+  margin-top:5%;
   padding-bottom: 5%;
   margin-bottom: 5%;
 }
@@ -128,6 +128,10 @@ p {
   margin:5% auto;
   text-align: left;
   line-height:2;
+}
+
+.skills{
+  margin-bottom: 10%;
 }
 
 .sky {
